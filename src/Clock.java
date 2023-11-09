@@ -17,5 +17,5 @@ public class Clock {
         int total = (num1 * 60 * 60) + (num2 * 60) + num3;
         return total;
     }
-
+//aa
 }
