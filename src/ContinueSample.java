@@ -20,7 +20,7 @@ public class ContinueSample {
 
         // 60以上の人数を表示
         System.out.println("60点以上の人は、" + count + "人です。");
-
+//a
     }
 
 }
